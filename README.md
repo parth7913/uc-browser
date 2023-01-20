@@ -1,4 +1,4 @@
-# uc
+# UC Browser
 
 A new Flutter project.
 
