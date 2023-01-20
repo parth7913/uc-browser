@@ -76,7 +76,7 @@ class Homeprovider extends ChangeNotifier {
     HomeModel(
         image:
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8R8PhGeOKTck7ySQTMzw46Kjpf6EjDVmv3Q&usqp=CAU",
-        name: "Sony Sub",
-        uri: "https://www.sonyliv.com/live-tv/sony-sab-1000009248"),
+        name: "Hbo Max",
+        uri: "https://www.hbomax.com/geo-availability"),
   ];
 }
